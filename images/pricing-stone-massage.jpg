@@ -1,0 +1,676 @@
+<!DOCTYPE html><html lang="en-US" class=" js csstransforms csstransforms3d csstransitions"><head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+	<link rel="pingback" href="https://fluentthemes.com/wp/depilex/xmlrpc.php">
+	
+	<!-- Favicon -->
+	    <link rel="shortcut icon" href>
+		
+	<title>Page not found – Depilex Salon – Parlour – Spa – Gym and Multipurpose WP Theme</title>
+<meta name="robots" content="noindex,nofollow">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<link rel="alternate" type="application/rss+xml" title="Depilex Salon - Parlour - Spa - Gym and Multipurpose WP Theme » Feed" href="https://fluentthemes.com/wp/depilex/feed/">
+<link rel="alternate" type="application/rss+xml" title="Depilex Salon - Parlour - Spa - Gym and Multipurpose WP Theme » Comments Feed" href="https://fluentthemes.com/wp/depilex/comments/feed/">
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="depilex-fonts-dosis-css" href="../css/css_2.css" type="text/css" media="all">
+<link rel="stylesheet" id="depilex-fonts-opensans-css" href="../css/css_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap.css-css" href="../css/bootstrap.css" type="text/css" media="all">
+<link rel="stylesheet" id="depilex-stylesheet-css" href="../css/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="depilex-spa-css" href="../css/spa-style.css" type="text/css" media="all">
+<link rel="stylesheet" id="depilex-reset-css" href="../css/reset.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome.css-css" href="../css/font-awesome.css" type="text/css" media="all">
+<link rel="stylesheet" id="et-line-fonts.css-css" href="../css/et-line-fonts.css" type="text/css" media="all">
+<link rel="stylesheet" id="flaticon.css-css" href="../css/flaticon.css" type="text/css" media="all">
+<link rel="stylesheet" id="flaticon-spa.css-css" href="../css/flaticon-spa.css" type="text/css" media="all">
+<link rel="stylesheet" id="depilex-magnific-popup-css" href="../css/magnific-popup.css" type="text/css" media="all">
+<link rel="stylesheet" id="depilex-rev-settings.css-css" href="../css/settings.css" type="text/css" media="all">
+<link rel="stylesheet" id="wc-block-vendors-style-css" href="../css/vendors-style.css" type="text/css" media="all">
+<link rel="stylesheet" id="wc-block-style-css" href="../css/style_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="../css/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="the_depilex_extensions-css" href="../css/the_depilex_extensions.css" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="../css/woocommerce-layout.css" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="../css/woocommerce-smallscreen.css" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="../css/woocommerce.css" type="text/css" media="all">
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<script type="text/javascript" src="../js/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="../js/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="../js/jquery.blockUI.min.js" id="jquery-blockui-js"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp\/depilex\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/wp\/depilex\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/fluentthemes.com\/wp\/depilex\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/add-to-cart.min.js" id="wc-add-to-cart-js"></script>
+<script type="text/javascript" src="../js/woocommerce-add-to-cart.js" id="vc_woocommerce-add-to-cart-js-js"></script>
+<link rel="https://api.w.org/" href="https://fluentthemes.com/wp/depilex/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://fluentthemes.com/wp/depilex/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://fluentthemes.com/wp/depilex/wp-includes/wlwmanifest.xml"> 
+
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<!-- Custom CSS Codes
+========================================================= -->
+<style id="custom-style">
+						.service-post-container .heading-overlay {
+	background: #f9a392;
+	}
+	.team-overlay-down {
+	background: #f9a392;
+	}
+	.team-img-container:hover .team-overlay {
+	background-color: #f9a392;
+	}
+	.opening-hour-grid {
+	background: #f9a392;
+	}
+	.blog-overlay {
+	background: #f9a392;
+	}
+	.blog-overlay-down {
+	background: #f9a392;
+	}
+	.heading, .calendar_wrap a {
+	color: #f9a392;
+	}
+	.calendar_wrap a:hover {
+	color: #f9a392;
+	}
+	.navbar-default .active {
+		background: #f9a392;
+	}
+	.btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary, .btn-light-solid:hover, .btn-light-solid:focus, .btn-light-solid:active, .btn-light-solid:visited {
+		background-color: #f9a392;
+		border-color: #f9a392;
+	}
+	.btn-colored, .scrollup {
+		background-color: #f9a392;
+	}
+	.btn-clean:hover {
+		background-color: #f9a392;
+		border: 1px solid #f9a392;
+	}
+	.btn-dark:hover, .btn-dark:active, .btn-dark:focus, .btn-dark:visited {
+		background: #f9a392;
+		border-color: #f9a392 !important;
+	}
+	.bredcrumbs a:hover, .side-bar .widget .tagcloud a:hover {
+		color: #f9a392 !important;
+	}
+	.bredcrumbs a:last-child {
+		color: #f9a392;
+	}
+	.top-bar {
+		border-bottom: 1px solid #f9a392;
+		background: #f9a392;
+	}
+	.appoinment-button:hover {
+		background: #f9a392 none repeat scroll 0 0 !important;
+	}
+	/*** menu hover css ***/
+	.navigation .navbar-default .navbar-nav>li>a:focus, .navigation .navbar-default .navbar-nav>li>a:hover {
+		color: #f9a392;
+	}
+	/*** menu hover 0pen css ***/
+	.navigation .navbar-default .navbar-nav>.open>a, .navigation .navbar-default .navbar-nav>.open>a:focus, .navigation .navbar-default .navbar-nav>.open>a:hover {
+		color: #f9a392;
+	}
+	.navigation .dropdown-menu, .navigation-2 .dropdown-menu {
+		background-color: #f9a392;
+	}
+	.navbar-top-2 {
+		border-top: 3px solid #f9a392;
+	}
+	.navbar-link-2 ul li a:hover {
+		color: #f9a392	}
+	.header-content .btn-link:hover {
+		color: #f9a392;
+	}
+	/********** menu hover css ********/
+	.navigation-2 .navbar-default .navbar-nav>li>a:focus, .navigation-2 .navbar-default .navbar-nav>li>a:hover {
+		background-color: #f9a392;
+	}
+	/********* menu hover 0pen css ********/
+	.navigation-2 .navbar-default .navbar-nav>.open>a, .navigation-2 .navbar-default .navbar-nav>.open>a:focus, .navigation-2 .navbar-default .navbar-nav>.open>a:hover {
+		background-color: #f9a392;
+	}
+	.navigation-2 .navbar-default .navbar-toggle .icon-bar {
+		background-color: #f9a392;
+	}
+	.tt-slider-title.dark {
+		color: #f9a392;
+	}
+	.tt-slider-subtitle.dark {
+		color: #f9a392;
+	}
+	.btn-solid.light {
+		color: #f9a392;
+	}
+	.btn-solid.light:hover {
+		color: #f9a392;
+	}
+	.btn-bordered.light:hover {
+		color: #f9a392;
+	}
+	.our-services h4:hover {
+		color: #f9a392;
+	}
+	.services-content h4:hover {
+		color: #f9a392;
+	}
+	.team-overlay a:hover {
+		background: #f9a392 none repeat scroll 0 0;
+		border-color: #f9a392;
+	}
+	ul#filter.filter-square li:hover {
+		background-color: #f9a392;
+		border: 1px solid #f9a392;
+	}
+	ul#filter.filter-square li.active {
+		background-color: #f9a392;
+	}
+	ul#filter.filter-transparent li.active {
+		color: #f9a392;
+	}
+	.portfolio:hover .portfolio-info .links {
+		color: #f9a392;
+	}
+	.portfolio-info .btn:hover {
+		color: #f9a392;
+	}
+	.portfolio:hover .portfolio-details li {
+		color: #f9a392;
+	}
+	.portfolio-details li a {
+		background-color: #f9a392;
+	}
+	ul.project-meta li a:hover {
+		color: #f9a392;
+	}
+	.project-link {
+		background: #f9a392;
+	}
+	.portfolio-version-two .project-link ul li a {
+		color: #f9a392;
+		border: 2px solid #f9a392;	
+	}
+	.portfolio-version-two .project-link ul li a:hover {
+		background-color: #f9a392;
+	}
+	.info a.like i, .info a.like:hover {
+		color: #f9a392;
+	}
+	.portfolio:hover .portfolio-details li {
+		color: #f9a392;
+	}
+	.portfolio-details li a {
+		background-color: #f9a392;
+	}
+	.control-two:hover .carousel-control:hover {
+		color: #f9a392;
+	}
+	.portfolio-nav a:hover {
+		color: #f9a392;
+	}
+	.portfolio-meta li a:hover {
+		color: #f9a392;
+	}
+	.work-timings li.hour-time {
+		background: #f9a392 none repeat scroll 0 0;
+	}
+	.price_title:hover {
+		color: #f9a392;
+	}
+	.price_right {
+		color: #f9a392;
+	}
+	.choose-box-content h4:hover {
+		color: #f9a392;
+	}
+	.carousel-indicators .active {
+		color: #f9a392 !important;
+		background-color: #f9a392 !important;
+	}
+	.btn-blog {
+		background: #f9a392;
+		border: 1px solid #f9a392;
+	}
+	.btn-blog:hover {
+		background: #363636;
+		border: 1px solid #363636;
+	}
+	.post-content h2 a:hover {
+		color: #f9a392;
+	}
+	.post-block blockquote {
+		border-left: 5px solid #f9a392;
+	}
+	.post-block blockquote.left-quote {
+		border-left: 5px solid #f9a392;
+	}
+	.meta-bg {
+		background-color: #f9a392;
+	}
+	.meta-link:hover {
+		color: #f9a392;
+	}
+	.meta-comment i, .meta-author i, .meta-tag i {
+		color: #f9a392;
+	}
+	#slider .owl-prev, #slider .owl-next, #post-slider .owl-next, #post-slider .owl-prev {
+		background-color: #f9a392;
+	}
+	.side-bar .widget h2 {
+		border-left: 4px solid #f9a392;
+	}
+	.side-bar .widget ul li a:hover {
+		color: #f9a392;
+	}
+	.side-bar .widget .tag_cloud a:hover {
+		color: #f9a392;
+	}
+	.tag_cloud a:hover {
+		color: #f9a392;
+	}
+	.related-grid-name > span:hover {
+		color: #f9a392;
+	}
+	.related-grid-name > h5:hover {
+		color: #f9a392;
+	}
+	.media-heading a {
+		color: #f9a392;
+	}
+	.media-heading a:hover {
+		color: #f9a392;
+	}
+	.comment-reply-link {
+		color: #f9a392 !important;
+	}
+	.custom-pagination li a:hover, .custom-pagination li a.active {
+		background: #f9a392 none repeat scroll 0 0;
+		border-color: #f9a392;
+	}
+	.footer-social ul li a:hover {
+		background: #f9a392 none repeat scroll 0 0;
+	}
+	.inner-footer .post ul li a:hover {
+		color: #f9a392;
+	}
+	.inner-footer .contact ul li:hover, .inner-footer .contact ul li:hover {
+		color: #f9a392;
+	}
+	.newsletter form .btn:hover {
+		background: #f9a392 none repeat scroll 0 0;
+		border: 1px solid #f9a392;
+	}
+	.sub-footer {
+		border-bottom: 4px solid #f9a392;
+	}
+	.footer-menu ul li a:hover {
+		color: #f9a392;
+	}
+	.commingsoon .newsletter form .btn:hover {
+		background: #f9a392 none repeat scroll 0 0 !important;
+		border: 1px solid #f9a392 !important;
+	}
+	.maintenance-container h1 {
+		color: #f9a392;
+	}
+	.maintenance-container .btn {
+		color: #f9a392;
+	}
+	.maintenance-container .btn:hover {
+		background: #f9a392 none repeat scroll 0 0;
+		border-color: #f9a392;
+	}
+	.error-container h1 {
+		color: #f9a392;
+	}
+	.error-container .btn {
+		color: #f9a392;
+	}
+	.error-container .btn:hover {
+		background: #f9a392 none repeat scroll 0 0;
+		border-color: #f9a392;
+	}
+	@media (min-width: 320px) and (max-width: 767px) {
+	.navigation .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+		border-color: #f9a392 !important;
+	}
+	}
+	@media only screen and (max-width: 767px) {
+	.navigation-2 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+		border-color: #f9a392;
+	}
+	.navigation .navbar-default .navbar-toggle {
+		 border: 1px solid #f9a392;
+		 background-color: #f9a392;
+	}
+	}
+	/*Using #363636 Color*/
+	#slider .owl-prev:hover, #slider .owl-next:hover, #post-slider .owl-next:hover, #post-slider .owl-prev:hover {
+		background-color: #363636;
+	}
+	.social-icons ul li a:hover {
+		background: #363636 none repeat scroll 0 0;
+	}
+	.header-content .call-number i {
+		color: #363636;
+	}
+	/*Using #363636 Color End*/
+	
+	.btn-bordered.dark:hover {
+	background-color: #f9a392;
+	}
+	.slider-caption .btn:hover {
+		color: #f9a392;
+	}
+	.team-image ul.social-icons li a:hover {
+		background: #f9a392 none repeat scroll 0 0;
+	}
+	 .pricing-grid:hover .btn:hover,  .pricing-grid.active .btn:hover {
+		background: #f9a392  none repeat scroll 0 0;
+		border-color: #f9a392 ;
+	}
+	.service-tab li.active i::before, .service-tab li:hover i::before {
+		color: #f9a392;
+	}
+	.service-tab li.active::after, .service-tab li:hover::after {
+		border-bottom: 10px solid #f9a392;
+	}
+	.services-section h2::after {
+		background-color: #f9a392;
+	}
+	@media (min-width: 320px) and (max-width: 767px) {
+	.navigation .navbar-default.transparent {
+		border-color: #f9a392 !important;
+	}
+	.navigation .navbar-default {
+		border-color: #f9a392 !important;
+	}
+	.navigation .dropdown-menu>li>a:hover {
+		color: #fff !important;
+	}
+	.navigation .navbar-default.transparent .dropdown-menu>li>a:hover{
+		color: #333 !important;
+	}
+	}
+		.type-post a:hover {
+    color: #f9a392;
+	}
+	.custom-pagination li a:hover, .custom-pagination li a.current {
+		background: #f9a392 none repeat scroll 0 0;
+		border-color: #363636;
+		color: #ffffff;
+	}
+	.side-bar .widget .tagcloud a:hover {
+		color: #f9a392;
+	}
+	.tagcloud a:hover {
+		color: #f9a392;
+	}
+	.page-template-page-no-bg .page-heading.breadcrumb-image{
+	background-color: #f9a392 !important;
+	}
+	/*Using #363636 Color*/
+		.custom-pagination li a:hover, .custom-pagination li a.current {
+		border-color: #363636;
+	}
+		/*Using #363636 Color End*/
+		/*New for WooCommerce*/
+	.button-shop, .wc-forward, .woocommerce .return-to-shop .button.wc-backward, .woocommerce .login .button, .comment-form .form-submit .button{
+		background: #f9a392;
+		border: 1px solid #f9a392;
+		color: #fff;
+	}
+
+	.button-shop:hover, .wc-forward:hover, .woocommerce .return-to-shop .button.wc-backward:hover, .woocommerce .login .button:hover, .comment-form .form-submit .button:hover {
+		background: #222;
+		color: #fff;
+		border: 1px solid #222;
+	}
+	
+	.pricing-action .add_to_cart_button, .button.full-wid .boxed-color-xs, .pricing-action .product_type_simple, .pricing-action .product_type_variable,
+	.woo-sidebar .price_slider_amount button, .woo-sidebar p.buttons a{
+		background-color: #f9a392 !important;
+	}
+	
+	.pricing-action .add_to_cart_button:hover, .button.full-wid .boxed-color-xs:hover, .pricing-action .product_type_simple:hover, .pricing-action .product_type_variable:hover,
+	.woo-sidebar .price_slider_amount button:hover, .woo-sidebar p.buttons a:hover{
+		background-color: #363636 !important;
+	}
+
+	.dlink, .zoom, .posted_in a, .tagged_as a, .sku {
+	  color: #f9a392 !important;
+	}
+	
+	.posted_in a:hover, .tagged_as a:hover, .sku:hover {
+	  color: #363636 !important;
+	}
+	
+	.dlink:hover, .zoom:hover {
+	  color: #fff !important;
+	  background-color: #f9a392 !important;
+	}
+
+	.products .product .onsale {
+	  background: #f9a392 !important;
+	}
+
+	.pagination-button {
+	  padding: 10px !important;
+	  color: #fff !important;
+	  background-color: #f9a392;
+	  border: none;
+	}
+
+	.amount {
+		color: #f9a392 !important;
+	}
+
+	.star-rating span {
+	  color: #f9a392 !important;
+	}
+
+	.shop-page .list ul li:before {
+	  position: relative;
+		top: 0;
+		left: 0;
+		content: "\f0da";
+		font-family: 'FontAwesome';
+		font-size: 14px;
+		color: #f9a392;
+		margin-right: 10px;
+		font-style: normal;
+		font-weight: normal;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+	}
+
+	/* Shop */
+	.pagination-custom .pagination-button:hover {
+		background-color: #f9a392;
+		border-color: #f9a392;
+	}
+	.single-prodcut .tabs .nav-tabs > li.active > a, 
+	.tabbed-widget .tabs .nav-tabs > li.active > a,
+	.shop-with-sidebar .widget .title > a,
+	.shopping-cart .cart-table tbody > tr > td > a,
+	.shop-checkout .cart-table a,
+	.shop-checkout .panel-group .panel-body label span,
+	.page-shop-login label span {
+		color: #f9a392;
+	}
+	.single-prodcut .tabs .nav-tabs > li.active > a:after,
+	.tabbed-widget .tabs .nav-tabs > li.active > a:after
+	.shop-checkout .panel-group .panel-title > a {
+		background-color: #f9a392;
+	}
+	.woocommerce-message .button.wc-forward{
+		background: #f9a392 none repeat scroll 0 0;
+	}
+	.summary.entry-summary ul li:before, .woocommerce-tabs.wc-tabs-wrapper ul li:before {
+		color: #f9a392;
+	}
+	.woocommerce div.product form.cart .button, .coupon input.button, .checkout_coupon input.button, .login input.button, .login input.button:hover,
+	.cart .actions input.button, .woocommerce div.product form.cart .button:hover, .coupon input.button:hover, .checkout_coupon input.button:hover,
+	.cart .actions input.button:hover, #review_form footer button, .woocommerce-tabs ul.tabs li.active, .woocommerce-tabs ul.tabs li:hover,
+	.woocommerce .product ul.tabs li.active a, .woocommerce .product ul.tabs li:hover a, .tags li a:hover, .tagcloud a:hover{
+		background-color: #f9a392;
+	}
+	.pagination-button {
+	  background-color: #f9a392;
+	}
+	.dlink, .zoom {
+	  color: #f9a392 !important;
+	}
+	.dlink:hover, .zoom:hover {
+	  background-color: #f9a392 !important;
+	}
+	.products .product .onsale {
+	  background: #f9a392 !important;
+	}
+	.amount {
+	  color: #f9a392 !important;
+	}
+	.star-rating span {
+	  color: #f9a392 !important;
+	}
+	.list ul li:before {
+		color: #f9a392;
+	}
+	.button-shop {
+		background: #f9a392 none repeat scroll 0 0;
+		border: 1px solid #f9a392;
+	}
+	.pagination-custom .pagination-button:hover {
+		background-color: #f9a392;
+		border-color: #f9a392;
+	}
+	.shop-with-sidebar .widget .title > a {
+		color: #f9a392;
+	}
+	.single-prodcut .tabs .nav-tabs > li.active > a:after,
+	.tabbed-widget .tabs .nav-tabs > li.active > a:after {
+	  background: #f9a392;
+	}
+	.single-prodcut .tabs .nav-tabs > li.active > a,
+	.tabbed-widget .tabs .nav-tabs > li.active > a {
+	  color: #f9a392;
+	}
+	.shopping-cart .cart-table tbody > tr > td > a {
+		color: #f9a392;
+	}
+	.shop-checkout .panel-group .panel-title > a  {
+		background-color: #f9a392;
+	}
+	.shop-checkout .cart-table a {
+		color: #f9a392;
+	}
+	.shop-checkout .panel-group .panel-body label span {
+		color: #f9a392;
+	}
+	.page-shop-login label span {
+		color: #f9a392;
+	}
+	.woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+		background-color: #f9a392 !important;
+	}
+	.woocommerce .menu-card:hover{
+		border: 1px solid #f9a392 !important;
+	}
+	.woocommerce .page-heading.breadcrumb-image{
+	background-color: #f9a392 !important;
+	}
+				
+</style>
+
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="error404 theme-depilex woocommerce-js wpb-js-composer js-comp-ver-6.5.0 vc_responsive bg-cover">
+
+<!-- =-=-=-=-=-=-= PAGE SECTION =-=-=-=-=-=-= -->
+<div id="page-section"> 
+  <!-- =-=-=-=-=-=-= Error Page =-=-=-=-=-=-= -->
+        <section class="error-page full-page" style="height: 600px;">
+            <div class="container">
+                <div class="error-container">
+                    <h1>404</h1>
+                    <span class="error-title">OOPS! PAGE NOT FOUND FOUND</span>
+                    <p>Sorry, but we cannot seem to find the page you are looking for.</p>
+                   
+                    <br>
+
+                    <a class="btn btn-primary" href="https://fluentthemes.com/wp/depilex/">Take Me Home</a>
+                </div>
+            </div>
+        </section>
+  <!-- =-=-=-=-=-=-= Error Page  END =-=-=-=-=-=-= --> 
+</div>
+<!-- =-=-=-=-=-=-= PAGE SECTION END =-=-=-=-=-=-= -->
+  
+  	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})()
+	</script>
+	<script type="text/javascript" src="../js/wp-polyfill.min.js" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wp-polyfill-js-after">
+( 'fetch' in window ) || document.write( '<script src="https://fluentthemes.com/wp/depilex/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://fluentthemes.com/wp/depilex/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://fluentthemes.com/wp/depilex/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://fluentthemes.com/wp/depilex/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://fluentthemes.com/wp/depilex/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://fluentthemes.com/wp/depilex/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/fluentthemes.com\/wp\/depilex\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/index.js" id="contact-form-7-js"></script>
+<script type="text/javascript" src="../js/js.cookie.min.js" id="js-cookie-js"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp\/depilex\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/wp\/depilex\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/woocommerce.min.js" id="woocommerce-js"></script>
+<script type="text/javascript" id="wc-cart-fragments-js-extra">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp\/depilex\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/wp\/depilex\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_1637067246266d9ae11a03bbbf2ba8a6","fragment_name":"wc_fragments_1637067246266d9ae11a03bbbf2ba8a6","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/cart-fragments.min.js" id="wc-cart-fragments-js"></script>
+<script type="text/javascript" src="../js/jquery.validate.min.js" id="jquery.validate.min.js-js"></script>
+<script type="text/javascript" src="../js/bootstrap.min.js" id="bootstrap.min.js-js"></script>
+<script type="text/javascript" src="../js/jquery.smoothscroll.js" id="jquery.smoothscroll.js-js"></script>
+<script type="text/javascript" src="../js/easing.js" id="jquery.easing.js-js"></script>
+<script type="text/javascript" src="../js/jquery.countTo.js" id="jquery.countTo.js-js"></script>
+<script type="text/javascript" src="../js/jquery.waypoints.js" id="jquery.waypoints.js-js"></script>
+<script type="text/javascript" src="../js/jquery.appear.min.js" id="jquery.appear.min.js-js"></script>
+<script type="text/javascript" src="../js/jquery.shuffle.min.js" id="jquery.shuffle..min.js-js"></script>
+<script type="text/javascript" src="../js/hover.min.js" id="hover.min.js-js"></script>
+<script type="text/javascript" src="../js/jquery.magnific-popup.min.js" id="jquery.magnific-popup.min.js-js"></script>
+<script type="text/javascript" src="../js/jquery.themepunch.tools.min.js" id="jquery.themepunch.tools.min.js-js"></script>
+<script type="text/javascript" src="../js/jquery.themepunch.revolution.min.js" id="jquery.themepunch.revolution.min.js-js"></script>
+<script type="text/javascript" src="../js/depilex-custom.js" id="depilex-custom-js"></script>
+<script type="text/javascript" src="../js/styleselector.js" id="depilex-styleselector-js"></script>
+<script type="text/javascript" src="../js/totop.js" id="depilex-totop-js"></script>
+<script type="text/javascript" src="../js/depilex-woocommerce.js" id="depilex-woocommerce-js"></script>
+
+</body></html>
